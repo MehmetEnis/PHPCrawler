@@ -6,6 +6,6 @@ Instructions
 
 1. git clone https://github.com/master-mem/PHPCrawler.git
 2. Once inside the cloned folder, use composer to install dependencies
-      composer install
-3. visit / the base url to see json results
-4. Visit /test path to see test result
+3. composer install
+4. visit / the base url to see json results
+5. Visit /test path to see test result
