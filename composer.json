@@ -1,0 +1,24 @@
+{
+    "name": "mehmetenis/phpcrawler",
+
+    "description": "Simple PHP Crawler",
+
+    "authors": [
+        {
+            "name": "Mehmet Enis",
+            "email": "m.enis@hotmail.co.uk"
+        }
+    ],
+
+    "require": {
+        "fabpot/goutte": "^3.2"
+    },
+    "require-dev": {
+      "simpletest/simpletest": "^1.1"
+    },
+    "autoload": {
+      "psr-4": {
+        "MehmetEnis\\": "src"
+      }
+    }
+}
